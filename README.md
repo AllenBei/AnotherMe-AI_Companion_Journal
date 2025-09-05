@@ -8,7 +8,7 @@
   <h1>AnotherMe AI</h1>
   <p><strong>Let AI help you journal better and think clearer</strong></p>
   <p>An intelligent journaling app for personal growth: guided writing, emotion analysis, and visual insights.</p>
-  <p><strong>Live:</strong> <a href="https://another.life">another.life</a></p>
+  <p><strong>Live:</strong> <a href="https://anotherme.life">another.life</a></p>
   <p><strong>Local Preview:</strong> <code>http://localhost:3000/product</code></p>
   <div>
     <img src="https://img.shields.io/badge/Framework-Next.js-000000?logo=nextdotjs"/>

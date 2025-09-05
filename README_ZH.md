@@ -8,7 +8,7 @@
   <h1>AnotherMe AI</h1>
   <p><strong>让 AI 陪你写更好的日记与思考</strong></p>
   <p>面向自我成长的智能日记应用：引导写作、情绪分析、可视化洞察，一站式提升表达与内在清晰度。</p>
-  <p><strong>线上体验：</strong><a href="https://another.life">another.life</a></p>
+  <p><strong>线上体验：</strong><a href="https://anotherme.life">another.life</a></p>
   <p><strong>本地预览：</strong>启动后访问 <code>http://localhost:3000/product</code></p>
   <div>
     <img src="https://img.shields.io/badge/Framework-Next.js-000000?logo=nextdotjs"/>
