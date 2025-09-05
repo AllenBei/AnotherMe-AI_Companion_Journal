@@ -8,7 +8,7 @@
   <h1>AnotherMe AI</h1>
   <p><strong>Let AI help you journal better and think clearer</strong></p>
   <p>An intelligent journaling app for personal growth: guided writing, emotion analysis, and visual insights.</p>
-  <p><strong>Live:</strong> <a href="https://anotherme.life">another.life</a></p>
+  <p><strong>Live:</strong> <a href="https://anotherme.life">anotherme.life</a></p>
   <p><strong>Local Preview:</strong> <code>http://localhost:3000/product</code></p>
   <div>
     <img src="https://img.shields.io/badge/Framework-Next.js-000000?logo=nextdotjs"/>
@@ -49,11 +49,7 @@ The project is built on a modern web stack, designed for efficient development a
 Description: never face a blank page—smart prompts and questions help you express quickly and go deeper.
 
 <div align="center" style="margin:12px 0;">
-  <video src="https://anotherme-public.oss-cn-shenzhen.aliyuncs.com/am_site/ai_response_write_en.webm"
-         style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"
-         autoplay muted loop playsinline
-         controlslist="nodownload noplaybackrate nofullscreen noremoteplayback"
-         disablepictureinpicture></video>
+  <img src="public/static/gif/ai_response_write.gif" alt="Guided AI Writing Demo" style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"/>
 </div>
 
 Highlights: intelligent prompts | deep thinking | personalized guidance
@@ -63,11 +59,7 @@ Highlights: intelligent prompts | deep thinking | personalized guidance
 Description: detect mood shifts and triggers from text—see why you feel what you feel.
 
 <div align="center" style="margin:12px 0;">
-  <video src="https://anotherme-public.oss-cn-shenzhen.aliyuncs.com/am_site/emotion_list_en.webm"
-         style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"
-         autoplay muted loop playsinline
-         controlslist="nodownload noplaybackrate nofullscreen noremoteplayback"
-         disablepictureinpicture></video>
+  <img src="public/static/gif/emotion_list.gif" alt="Emotion Analysis Demo" style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"/>
 </div>
 
 Highlights: real‑time analysis | mood tracking | insights
@@ -77,11 +69,7 @@ Highlights: real‑time analysis | mood tracking | insights
 Description: daily AI summaries with key points and reflection prompts (OSS excludes “encouragement & advice”).
 
 <div align="center" style="margin:12px 0;">
-  <video src="https://anotherme-public.oss-cn-shenzhen.aliyuncs.com/am_site/day_end_analysis_en.webm"
-         style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"
-         autoplay muted loop playsinline
-         controlslist="nodownload noplaybackrate nofullscreen noremoteplayback"
-         disablepictureinpicture></video>
+  <img src="public/static/gif/day_end_analysis.gif" alt="End-of-Day Summary Demo" style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"/>
 </div>
 
 Highlights: AI insights | daily reflection | pattern recognition
@@ -105,11 +93,7 @@ Highlights: timeline view | memory rediscovery | growth tracking
 Description: bubble charts make your emotional makeup visible and talk‑able.
 
 <div align="center" style="margin:12px 0;">
-  <video src="https://anotherme-public.oss-cn-shenzhen.aliyuncs.com/am_site/bubble_emotion_en.webm"
-         style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"
-         autoplay muted loop playsinline
-         controlslist="nodownload noplaybackrate nofullscreen noremoteplayback"
-         disablepictureinpicture></video>
+  <img src="public/static/gif/bubble_emotion.gif" alt="Emotion Visualization Demo" style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"/>
 </div>
 
 Highlights: interactive viz | emotion bubbles | visual storytelling

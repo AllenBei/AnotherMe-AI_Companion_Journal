@@ -8,7 +8,7 @@
   <h1>AnotherMe AI</h1>
   <p><strong>让 AI 陪你写更好的日记与思考</strong></p>
   <p>面向自我成长的智能日记应用：引导写作、情绪分析、可视化洞察，一站式提升表达与内在清晰度。</p>
-  <p><strong>线上体验：</strong><a href="https://anotherme.life">another.life</a></p>
+  <p><strong>线上体验：</strong><a href="https://anotherme.life">anotherme.life</a></p>
   <p><strong>本地预览：</strong>启动后访问 <code>http://localhost:3000/product</code></p>
   <div>
     <img src="https://img.shields.io/badge/Framework-Next.js-000000?logo=nextdotjs"/>
@@ -46,14 +46,10 @@
 
 1) **AI 引导写作（结构化启发 × 深度思考）**
 
-描述：告别“无从下笔”，通过智能提示与引导问题快速进入状态，逐层深入你的真实想法。
+描述：通过智能提示与引导问题快速进入状态，逐层深入你的真实想法，告别“无从下笔”。
 
 <div align="center" style="margin:12px 0;">
-  <video src="https://anotherme-public.oss-cn-shenzhen.aliyuncs.com/am_site/ai_response_write.webm"
-         style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"
-         autoplay muted loop playsinline
-         controlslist="nodownload noplaybackrate nofullscreen noremoteplayback"
-         disablepictureinpicture></video>
+  <img src="public/static/gif/ai_response_write.gif" alt="AI 引导写作演示" style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"/>
 </div>
 
 要点：智能提示｜深度思考｜个性化引导
@@ -63,11 +59,7 @@
 描述：基于文本语义识别情绪变化，高亮触发点，帮助你看清“为什么有这种感受”。
 
 <div align="center" style="margin:12px 0;">
-  <video src="https://anotherme-public.oss-cn-shenzhen.aliyuncs.com/am_site/emotion_list.webm"
-         style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"
-         autoplay muted loop playsinline
-         controlslist="nodownload noplaybackrate nofullscreen noremoteplayback"
-         disablepictureinpicture></video>
+  <img src="public/static/gif/emotion_list.gif" alt="情绪分析演示" style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"/>
 </div>
 
 要点：实时分析｜情绪追踪｜心情洞察
@@ -77,11 +69,7 @@
 描述：每天为你提炼重点与反思方向，形成连续的成长日志。（开源版不包含“鼓励与建议”）
 
 <div align="center" style="margin:12px 0;">
-  <video src="https://anotherme-public.oss-cn-shenzhen.aliyuncs.com/am_site/day_end_analysis.webm"
-         style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"
-         autoplay muted loop playsinline
-         controlslist="nodownload noplaybackrate nofullscreen noremoteplayback"
-         disablepictureinpicture></video>
+  <img src="public/static/gif/day_end_analysis.gif" alt="日终总结演示" style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"/>
 </div>
 
 要点：AI 洞察｜每日反思｜模式识别
@@ -105,11 +93,7 @@
 描述：通过气泡图将情绪构成直观呈现，让复杂心绪变得清晰可见与可对话。
 
 <div align="center" style="margin:12px 0;">
-  <video src="https://anotherme-public.oss-cn-shenzhen.aliyuncs.com/am_site/bubble_emotion.webm"
-         style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"
-         autoplay muted loop playsinline
-         controlslist="nodownload noplaybackrate nofullscreen noremoteplayback"
-         disablepictureinpicture></video>
+  <img src="public/static/gif/bubble_emotion.gif" alt="情绪可视化演示" style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"/>
 </div>
 
 要点：交互可视化｜情绪气泡｜视觉叙事
