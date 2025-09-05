@@ -74,7 +74,17 @@
 
 要点：AI 洞察｜每日反思｜模式识别
 
-4) **时间轴回顾（记忆与成长的一目了然）**
+4) **情绪可视化（把感受变成“可看的故事”）**
+
+描述：通过气泡图将情绪构成直观呈现，让复杂心绪变得清晰可见与可对话。
+
+<div align="center" style="margin:12px 0;">
+  <img src="public/static/gif/bubble_emotion.gif" alt="情绪可视化演示" style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"/>
+</div>
+
+要点：交互可视化｜情绪气泡｜视觉叙事
+
+5) **时间轴回顾（记忆与成长的一目了然）**
 
 描述：用时间线重温你的片段与主题，重新发现那些微小但重要的变化。
 
@@ -87,16 +97,6 @@
 </div>
 
 要点：时间线视图｜记忆重拾｜成长追踪
-
-5) **情绪可视化（把感受变成“可看的故事”）**
-
-描述：通过气泡图将情绪构成直观呈现，让复杂心绪变得清晰可见与可对话。
-
-<div align="center" style="margin:12px 0;">
-  <img src="public/static/gif/bubble_emotion.gif" alt="情绪可视化演示" style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"/>
-</div>
-
-要点：交互可视化｜情绪气泡｜视觉叙事
 
 ## ⚙️ 安装与配置
 

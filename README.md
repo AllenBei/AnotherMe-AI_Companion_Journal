@@ -74,7 +74,17 @@ Description: daily AI summaries with key points and reflection prompts (OSS excl
 
 Highlights: AI insights | daily reflection | pattern recognition
 
-4) **Timeline Review (rediscover your path)**
+4) **Emotion Visualization (see your story)**
+
+Description: bubble charts make your emotional makeup visible and talk‑able.
+
+<div align="center" style="margin:12px 0;">
+  <img src="public/static/gif/bubble_emotion.gif" alt="Emotion Visualization Demo" style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"/>
+</div>
+
+Highlights: interactive viz | emotion bubbles | visual storytelling
+
+5) **Timeline Review (rediscover your path)**
 
 Description: revisit your moments and themes with a clean chronological view.
 
@@ -87,16 +97,6 @@ Description: revisit your moments and themes with a clean chronological view.
 </div>
 
 Highlights: timeline view | memory rediscovery | growth tracking
-
-5) **Emotion Visualization (see your story)**
-
-Description: bubble charts make your emotional makeup visible and talk‑able.
-
-<div align="center" style="margin:12px 0;">
-  <img src="public/static/gif/bubble_emotion.gif" alt="Emotion Visualization Demo" style="width:100%;max-width:880px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12)"/>
-</div>
-
-Highlights: interactive viz | emotion bubbles | visual storytelling
 
 ## ⚙️ Install & Configure
 
