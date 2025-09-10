@@ -168,7 +168,7 @@ cp .env.example .env.local
 ```bash
 pnpm dev
 ```
-现在，访问 [`http://localhost:3000/product`](http://localhost:3000/product) 即可开始使用。
+现在，访问 [`http://localhost:3000`](http://localhost:3000) 即可开始使用。
 
 ---
 

@@ -168,7 +168,7 @@ The default AI provider is Deepseek. You can switch to other providers by config
 ```bash
 pnpm dev
 ```
-Now, you can access the app at [`http://localhost:3000/product`](http://localhost:3000/product).
+Now, you can access the app at [`http://localhost:3000`](http://localhost:3000).
 
 ---
 
